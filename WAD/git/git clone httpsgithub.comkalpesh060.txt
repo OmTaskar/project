@@ -1,0 +1,4 @@
+git clone https://github.com/kalpesh0604/kalpesh.git
+git add .
+git commit -m "Initial commit with project files"
+git push origin main
